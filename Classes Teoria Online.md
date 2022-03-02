@@ -1,4 +1,5 @@
 # Totes les classes de teoria de M1
+Need correu upc.edu
 ==================================================================================
 
 15-02-2021: Conceptes bàsics de grafs (1)
